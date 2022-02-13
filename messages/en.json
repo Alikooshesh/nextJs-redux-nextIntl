@@ -1,4 +1,7 @@
 {
+  "baseLayout": {
+    "headerTitle": "Next App"
+  },
   "home": {
     "title": "test page with redux and intl",
     "dataTitle": "Redux Data: ",

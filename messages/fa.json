@@ -1,4 +1,7 @@
 {
+  "baseLayout": {
+    "headerTitle": "نرم افزار تحت نکست"
+  },
   "home": {
     "title": "صفحه تست با ریداکس",
     "dataTitle": "اطلاعات ریداکس: ",

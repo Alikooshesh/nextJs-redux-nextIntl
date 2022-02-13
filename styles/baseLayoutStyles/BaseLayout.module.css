@@ -1,0 +1,12 @@
+.header{
+    border-bottom: 1px solid black;
+}
+
+.headerTitle{
+    width: 100%;
+    text-align: center;
+}
+
+.main{
+    padding: 2rem;
+}
