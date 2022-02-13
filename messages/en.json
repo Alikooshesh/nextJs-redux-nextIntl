@@ -1,0 +1,7 @@
+{
+  "home": {
+    "title": "test page with redux and intl",
+    "dataTitle": "Redux Data: ",
+    "addDataBtnText": "Add"
+  }
+}
